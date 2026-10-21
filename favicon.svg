@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">R27</title>
+  <desc id="desc">ไอคอนงานวิจัยร่างธรรมนูญ 2027</desc>
+  <rect width="64" height="64" rx="16" fill="#665195"/>
+  <path d="M17 18h13.5c7.2 0 11.5 3.7 11.5 9.5 0 4.2-2.4 7.2-6.5 8.5L43 47h-8.2l-6.4-10.2H24V47h-7V18Zm7 6v6.8h6c2.6 0 4-1.2 4-3.4 0-2.2-1.4-3.4-4-3.4h-6Z" fill="#fff"/>
+  <path d="M45 17h3v30h-3z" fill="#cbbcf0" opacity=".9"/>
+</svg>

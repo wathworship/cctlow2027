@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+
+# Local development artifacts
+.env
+.env.*
+!.env.example
+
+# Temporary OCR/rendering files
+*.tmp
+*.bak
